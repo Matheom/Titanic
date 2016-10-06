@@ -1,6 +1,12 @@
 # Titanic
 Kaggle: Survival on the titanic
 
-This is a first attempt via logistic regression to predict survival on the titanic
+First attempt at a kaggle competition
 
-PCA to follow...
+I use 3 methods here:
+
+logistic regression
+
+random forest
+
+neural network
