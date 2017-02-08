@@ -1,6 +1,6 @@
 # Titanic
 Kaggle: Survival on the titanic
 
-This is a first attempt via logistic regression to predict survival on the titanic
+Using this dataset to have some fun, and also to practise pushing code from ubuntu terminal to github
 
-PCA to follow...
+Code includes feature engineering, and predictions using logistic regression random forests, and neural network techniques
